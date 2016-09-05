@@ -1,0 +1,3 @@
+accessing
+participants
+	^Set new.

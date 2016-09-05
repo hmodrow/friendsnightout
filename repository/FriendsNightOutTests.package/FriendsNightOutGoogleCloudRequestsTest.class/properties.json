@@ -1,0 +1,15 @@
+{
+	"category" : "FriendsNightOutTests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"server",
+		"client" ],
+	"name" : "FriendsNightOutGoogleCloudRequestsTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

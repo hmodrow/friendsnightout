@@ -1,0 +1,14 @@
+{
+	"category" : "FriendsNightOut",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GoogleCloudRestCall",
+	"pools" : [
+		 ],
+	"super" : "FriendsNightOutRestCall",
+	"type" : "normal" }

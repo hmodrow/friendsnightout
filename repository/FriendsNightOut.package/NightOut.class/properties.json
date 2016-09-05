@@ -1,0 +1,14 @@
+{
+	"category" : "FriendsNightOut",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "NightOut",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

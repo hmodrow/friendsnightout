@@ -1,0 +1,14 @@
+{
+	"category" : "FriendsNightOutTests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "NightOutTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

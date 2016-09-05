@@ -1,0 +1,14 @@
+{
+	"category" : "FriendsNightOut",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "FriendsNightOutRestCall",
+	"pools" : [
+		 ],
+	"super" : "ZnAutoMatchedRestCall",
+	"type" : "normal" }
