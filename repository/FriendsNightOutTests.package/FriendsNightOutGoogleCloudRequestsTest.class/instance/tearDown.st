@@ -1,4 +1,4 @@
 running
 tearDown
-	client close.
-	server stop
+	client ifNotNil: [ client close ].
+	server ifNotNil: [ server stop ]
