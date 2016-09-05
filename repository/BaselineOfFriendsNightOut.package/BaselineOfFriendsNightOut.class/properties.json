@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfFriendsNightOut",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"repositories" ],
+	"name" : "BaselineOfFriendsNightOut",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
