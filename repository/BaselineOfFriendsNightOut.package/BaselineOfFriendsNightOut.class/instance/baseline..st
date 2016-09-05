@@ -4,7 +4,7 @@ baseline: spec
 
   spec for: #common do: [ 
     spec blessing: #baseline.
-    spec repository: 'github://hmodrow/friendsnightout/repository:master'.
+    spec repository: 'github://hmodrow/friendsnightout:master/repository'.
 
     spec
       package: 'FriendsNightOut' with: [
@@ -15,5 +15,4 @@ baseline: spec
     spec project: 'ZincHTTPComponents' with: [
       spec 
         className: 'ConfigurationOfZincHTTPComponents';
-        repository: 'http://mc.stfx.eu/ZincHTTPComponents';
-        version: #stable ] ]
+        repository: 'http://mc.stfx.eu/ZincHTTPComponents'] ]
