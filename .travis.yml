@@ -1,6 +1,13 @@
 language: smalltalk
 sudo: false
 os:
-  - linux
+- linux
 smalltalk:
-  - Pharo-5.0
+- Pharo-5.0
+deploy:
+  provider: gae
+  project: friends-night-out
+
+before_install:
+- openssl aes-256-cbc -K $encrypted_3a2738869bae_key -iv $encrypted_3a2738869bae_iv
+  -in client-secret.json.enc -out client-secret.json -d
