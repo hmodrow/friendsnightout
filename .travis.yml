@@ -7,7 +7,7 @@ smalltalk:
 deploy:
   provider: gae
   project: friends-night-out
-
+  keyfile: client-secret.json
 before_install:
-- openssl aes-256-cbc -K $encrypted_3a2738869bae_key -iv $encrypted_3a2738869bae_iv
+- openssl aes-256-cbc -K $encrypted_653373ff099b_key -iv $encrypted_653373ff099b_iv
   -in client-secret.json.enc -out client-secret.json -d
